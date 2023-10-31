@@ -1,0 +1,2 @@
+import{p as o,b as e}from"./p-7a7a82ed.js";export{s as setNonce}from"./p-7a7a82ed.js";const t=()=>{const e=import.meta.url;const t={};if(e!==""){t.resourcesUrl=new URL(".",e).href}return o(t)};t().then((o=>e([["p-6307f2fb",[[1,"features-section"],[1,"footer-section"],[1,"hero-section"],[1,"my-nav",{firstOption:[1,"first-option"],firstHref:[1,"first-href"],secondOption:[1,"second-option"],secondHref:[1,"second-href"],toggleBool:[32]}]]]],o)));
+//# sourceMappingURL=librarymanagement.esm.js.map
